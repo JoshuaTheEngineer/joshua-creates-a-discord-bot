@@ -1,0 +1,25 @@
+{
+  "name": "joshua-creates-a-discord-bot",
+  "version": "1.0.0",
+  "description": "Joshua will use this app to create a test Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaTheEngineer/joshua-creates-a-discord-bot.git"
+  },
+  "author": "Joshua Cadavez",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/JoshuaTheEngineer/joshua-creates-a-discord-bot/issues"
+  },
+  "homepage": "https://github.com/JoshuaTheEngineer/joshua-creates-a-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
