@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/JoshuaTheEngineer/joshua-creates-a-discord-bot#readme",
   "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.29.0",
     "discord.js": "^13.6.0"
   },
   "devDependencies": {
